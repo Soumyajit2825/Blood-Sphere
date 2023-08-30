@@ -238,7 +238,7 @@ Don't forget to ⭐ this project!!
 <br>
 <div>
 <h1 align="center">
- <b>Made with ❤️ by team Semicolon
+ <b>Made with ❤️ by Team Semicolon
 <h1>
 <a href="https://github.com/Soumyajit2825/Blood-Sphere/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Soumyajit2825/Blood-Sphere" />
