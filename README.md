@@ -16,7 +16,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
          <ul>
-        <li><a href="#inspiration">Inspiration:</a></li>
+        <li><a href="#inspiration-:">Inspiration:</a></li>
       </ul>
       <ul>
         <li><a href="#use-case">Use Case:</a></li>
@@ -31,7 +31,7 @@
         <li><a href="#challenges-we-faced">Challenges We Faced</a></li>
       </ul>
       <ul>
-        <li><a href="#future-plans">Future Plans:</a></li>
+        <li><a href="#future-goals-:">Future Goals:</a></li>
       </ul>
     </li>
     <li>
@@ -44,9 +44,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#how-to-use">How To Use</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
   <!-- ABOUT THE PROJECT -->
