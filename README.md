@@ -70,9 +70,13 @@ Imagine being in a critical situation where someone in need requires an urgent b
 
 ### 💡What problem does the project solve?
 •  Time constraints: In critical situations, people may waste valuable time searching for blood sources, which can delay life-saving treatment. <br>
+
 •  Effective communication: Traditional ways to find blood donors can be time-consuming and involve long phone calls and large networks, which can slow down the process of getting the blood type you need. <br>
+
 •  Different distribution of blood types: Lack of a centralized system can lead to mismatched blood types which can be dangerous or even fatal. <br>
+
 •  Geographic constraints: Patients may not know where the closest blood bank is located, which can lead to wasted travel to remote areas. <br>
+
 •  Low donor turnout: A lack of visibility and convenient access to donation centres can contribute to low donor turnout and insufficient blood supply.
 
 
